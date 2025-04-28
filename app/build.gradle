@@ -88,8 +88,8 @@ android {
 
 dependencies {
     api project(':wkbase')
-    implementation project(path: ':wkuikit')
-    implementation project(path: ':wklogin')
-    implementation project(path: ':wkscan')
-    implementation project(path: ':wkpush')
+//    implementation project(path: ':wkuikit')
+//    implementation project(path: ':wklogin')
+//    implementation project(path: ':wkscan')
+//    implementation project(path: ':wkpush')
 }

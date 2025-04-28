@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 import androidx.core.view.ViewCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.endpoint.EndpointSID;
@@ -32,11 +32,11 @@ import com.chat.base.utils.WKToastUtils;
 import com.chat.base.utils.systembar.WKStatusBarUtils;
 import com.google.android.material.snackbar.Snackbar;
 import com.shuyu.gsyvideoplayer.builder.GSYVideoOptionBuilder;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKMsg;
-import com.xinbida.wukongim.entity.WKSendOptions;
-import com.xinbida.wukongim.msgmodel.WKMessageContent;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKMsg;
+import com.chat.im.entity.WKSendOptions;
+import com.chat.im.msgmodel.WKMessageContent;
 
 import java.io.File;
 import java.util.ArrayList;

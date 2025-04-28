@@ -1,7 +1,7 @@
 package com.chat.base.endpoint.entity;
 
 
-import com.xinbida.wukongim.entity.WKChannel;
+import com.chat.im.entity.WKChannel;
 
 import java.util.List;
 

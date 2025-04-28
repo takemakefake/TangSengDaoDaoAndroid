@@ -12,7 +12,7 @@ import android.util.Log;
 import androidx.core.os.ConfigurationCompat;
 import androidx.core.os.LocaleListCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.config.WKSharedPreferencesUtil;
 
 import java.lang.ref.WeakReference;

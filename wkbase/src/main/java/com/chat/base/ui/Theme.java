@@ -40,7 +40,7 @@ import androidx.core.graphics.ColorUtils;
 import androidx.core.math.MathUtils;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.config.WKSharedPreferencesUtil;
 import com.chat.base.ui.components.RoundTextView;
 import com.chat.base.utils.AndroidUtilities;

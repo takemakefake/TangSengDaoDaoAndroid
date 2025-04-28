@@ -1,6 +1,6 @@
 package com.chat.base.config;
 
-import com.chat.base.BuildConfig;
+import com.chat.app.BuildConfig;
 
 public class WKBinder {
 //    public static boolean isDebug =  false;

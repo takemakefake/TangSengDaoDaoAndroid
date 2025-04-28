@@ -5,7 +5,7 @@ import android.net.Uri;
 
 import androidx.fragment.app.FragmentActivity;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.ui.Theme;
 import com.chat.base.utils.rxpermissions.RxPermissions;
 

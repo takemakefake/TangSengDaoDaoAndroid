@@ -38,7 +38,7 @@ import androidx.annotation.Keep;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.ui.Theme;
 import com.chat.base.utils.AndroidUtilities;
 import com.chat.base.utils.LayoutHelper;

@@ -18,7 +18,7 @@ import androidx.annotation.ColorRes;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 
 /**
  * 2020-08-21 10:49

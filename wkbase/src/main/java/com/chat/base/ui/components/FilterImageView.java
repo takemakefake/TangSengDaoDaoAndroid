@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 
 import com.google.android.material.imageview.ShapeableImageView;
 import com.google.android.material.shape.CornerFamily;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.utils.AndroidUtilities;
 
 

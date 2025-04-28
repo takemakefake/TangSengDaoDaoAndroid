@@ -30,19 +30,6 @@ android {
 
 dependencies {
     api project(':wkbase')
-    implementation 'com.huawei.hms:push:6.1.0.300'
-    implementation files('libs/MiPush_SDK_Client_3_7_5.jar')
 
-    //oppo
-    implementation 'com.google.code.gson:gson:2.8.9'
-    implementation 'commons-codec:commons-codec:1.11'
-    implementation 'androidx.annotation:annotation:1.6.0'
-    implementation project(path: ':MyLibs:oppopush')
-    //vivo
-    implementation project(path: ':MyLibs:vivopush')
-    // firebase
-    implementation platform('com.google.firebase:firebase-bom:32.8.1')
-    implementation 'com.google.firebase:firebase-analytics'
-    implementation 'com.google.firebase:firebase-messaging'
 
 }

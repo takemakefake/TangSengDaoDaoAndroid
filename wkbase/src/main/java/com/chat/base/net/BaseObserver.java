@@ -7,7 +7,7 @@ import com.chat.base.WKBaseApplication;
 import com.chat.base.config.WKConfig;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.utils.ActManagerUtils;
-import com.xinbida.wukongim.WKIM;
+import com.chat.im.WKIM;
 
 import org.jetbrains.annotations.NotNull;
 

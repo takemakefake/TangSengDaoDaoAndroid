@@ -23,7 +23,7 @@ import android.widget.FrameLayout;
 import androidx.core.content.ContextCompat;
 import androidx.core.graphics.ColorUtils;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.ui.Theme;
 import com.chat.base.utils.AndroidUtilities;
 

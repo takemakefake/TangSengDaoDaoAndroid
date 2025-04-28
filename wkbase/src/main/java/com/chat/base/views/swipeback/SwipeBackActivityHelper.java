@@ -6,7 +6,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.chat.base.R;
+import com.chat.app.R;
 
 /**
  * @author Yrom

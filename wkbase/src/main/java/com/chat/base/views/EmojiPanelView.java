@@ -25,7 +25,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.config.WKSharedPreferencesUtil;
 import com.chat.base.emoji.EmojiFragment;
 import com.chat.base.emoji.MoonUtil;

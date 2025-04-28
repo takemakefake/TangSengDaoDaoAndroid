@@ -22,7 +22,7 @@ import androidx.core.content.FileProvider;
 import androidx.fragment.app.FragmentActivity;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
+import com.chat.app.R;
 
 import java.io.File;
 

@@ -24,7 +24,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 
 import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.act.WKWebViewActivity;
 import com.chat.base.config.WKConfig;
 import com.chat.base.config.WKSharedPreferencesUtil;

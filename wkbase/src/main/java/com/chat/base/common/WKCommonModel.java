@@ -3,7 +3,7 @@ package com.chat.base.common;
 import android.text.TextUtils;
 
 import com.alibaba.fastjson.JSON;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 import com.chat.base.base.WKBaseModel;
 import com.chat.base.config.WKConfig;
@@ -22,9 +22,9 @@ import com.chat.base.utils.DispatchQueuePool;
 import com.chat.base.utils.WKDeviceUtils;
 import com.chat.base.utils.WKReader;
 import com.chat.base.utils.WKToastUtils;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKChannelExtras;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKChannelExtras;
 
 import org.jetbrains.annotations.NotNull;
 

@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.views.pinnedsectionitemdecoration.callback.OnHeaderClickListener;
 import com.chat.base.views.pinnedsectionitemdecoration.callback.OnItemTouchListener;
 import com.chat.base.views.pinnedsectionitemdecoration.utils.DividerHelper;

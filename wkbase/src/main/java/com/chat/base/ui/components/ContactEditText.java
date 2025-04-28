@@ -26,12 +26,12 @@ import android.widget.TextView;
 import androidx.appcompat.widget.AppCompatAutoCompleteTextView;
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.emoji.MoonUtil;
 import com.chat.base.msg.ChatContentSpanType;
 import com.chat.base.utils.StringUtils;
 import com.chat.base.utils.WKToastUtils;
-import com.xinbida.wukongim.msgmodel.WKMsgEntity;
+import com.chat.im.msgmodel.WKMsgEntity;
 
 import java.util.ArrayList;
 import java.util.Collections;

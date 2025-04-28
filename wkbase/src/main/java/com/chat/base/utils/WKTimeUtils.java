@@ -3,7 +3,7 @@ package com.chat.base.utils;
 import android.util.Log;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.utils.language.WKLanguageType;
 
 import java.text.DateFormat;

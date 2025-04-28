@@ -7,9 +7,9 @@ import android.text.TextUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.base.WKBaseActivity;
-import com.chat.base.databinding.ActCutImgLayoutBinding;
+import com.chat.app.databinding.ActCutImgLayoutBinding;
 import com.chat.base.utils.ImageUtils;
 
 import java.io.File;

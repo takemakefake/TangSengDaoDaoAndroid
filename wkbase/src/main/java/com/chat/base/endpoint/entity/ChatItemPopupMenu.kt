@@ -1,7 +1,7 @@
 package com.chat.base.endpoint.entity
 
 import com.chat.base.msg.IConversationContext
-import com.xinbida.wukongim.entity.WKMsg
+import com.chat.im.entity.WKMsg
 
 class ChatItemPopupMenu(
     var imageResource: Int,

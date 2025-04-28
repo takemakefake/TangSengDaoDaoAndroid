@@ -15,7 +15,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.ui.Theme;
 
 import java.text.MessageFormat;

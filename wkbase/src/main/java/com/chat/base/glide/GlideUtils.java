@@ -19,7 +19,7 @@ import com.bumptech.glide.load.resource.gif.GifDrawable;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.RequestOptions;
 import com.bumptech.glide.request.target.Target;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 import com.chat.base.config.WKApiConfig;
 import com.chat.base.config.WKConstants;

@@ -36,7 +36,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.CustomTarget;
 import com.bumptech.glide.request.target.Target;
 import com.bumptech.glide.request.transition.Transition;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 import com.chat.base.config.WKApiConfig;
 import com.chat.base.endpoint.EndpointManager;
@@ -57,7 +57,7 @@ import com.lxj.xpopup.XPopup;
 import com.lxj.xpopup.core.BasePopupView;
 import com.lxj.xpopup.interfaces.XPopupCallback;
 import com.lxj.xpopup.util.SmartGlideImageLoader;
-import com.xinbida.wukongim.entity.WKMsg;
+import com.chat.im.entity.WKMsg;
 
 import java.util.List;
 

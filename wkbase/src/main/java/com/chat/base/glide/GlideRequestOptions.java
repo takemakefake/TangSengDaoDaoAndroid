@@ -2,7 +2,7 @@ package com.chat.base.glide;
 
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;
-import com.chat.base.R;
+import com.chat.app.R;
 
 /**
  * 2019-05-06 10:52

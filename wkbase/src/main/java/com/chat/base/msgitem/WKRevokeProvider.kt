@@ -10,7 +10,7 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 import com.chad.library.adapter.base.viewholder.BaseViewHolder
 import com.chat.base.WKBaseApplication
-import com.chat.base.R
+import com.chat.app.R
 import com.chat.base.config.WKConfig
 import com.chat.base.msg.ChatAdapter
 import com.chat.base.ui.Theme
@@ -19,9 +19,9 @@ import com.chat.base.ui.components.NormalClickableSpan
 import com.chat.base.ui.components.SystemMsgBackgroundColorSpan
 import com.chat.base.utils.AndroidUtilities
 import com.chat.base.utils.WKTimeUtils
-import com.xinbida.wukongim.WKIM
-import com.xinbida.wukongim.entity.WKChannelType
-import com.xinbida.wukongim.entity.WKMsg
+import com.chat.im.WKIM
+import com.chat.im.entity.WKChannelType
+import com.chat.im.entity.WKMsg
 
 class WKRevokeProvider : WKChatBaseProvider() {
     override fun getChatViewItem(parentView: ViewGroup, from: WKChatIteMsgFromType): View? {

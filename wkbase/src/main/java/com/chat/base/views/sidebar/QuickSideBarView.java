@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.views.sidebar.listener.OnQuickSideBarTouchListener;
 
 import java.util.Arrays;

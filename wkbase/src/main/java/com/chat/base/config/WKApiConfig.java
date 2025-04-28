@@ -2,7 +2,7 @@ package com.chat.base.config;
 
 import android.text.TextUtils;
 
-import com.xinbida.wukongim.entity.WKChannelType;
+import com.chat.im.entity.WKChannelType;
 
 /**
  * 2019-11-20 10:11

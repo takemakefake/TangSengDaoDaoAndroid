@@ -29,7 +29,7 @@ import androidx.annotation.FloatRange;
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.views.blurview.enu.BlurCorner;
 import com.chat.base.views.blurview.enu.BlurMode;
 import com.chat.base.views.blurview.impl.AndroidStockBlurImpl;

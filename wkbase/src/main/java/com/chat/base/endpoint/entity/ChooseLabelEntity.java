@@ -3,7 +3,7 @@ package com.chat.base.endpoint.entity;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import com.xinbida.wukongim.entity.WKChannel;
+import com.chat.im.entity.WKChannel;
 
 import java.util.List;
 

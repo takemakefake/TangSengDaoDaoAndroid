@@ -2,10 +2,10 @@ package com.chat.base.entity
 
 
 import android.text.TextUtils
-import com.chat.base.R
+import com.chat.app.R
 import com.chat.base.WKBaseApplication
-import com.xinbida.wukongim.WKIM
-import com.xinbida.wukongim.msgmodel.WKMessageContent
+import com.chat.im.WKIM
+import com.chat.im.msgmodel.WKMessageContent
 import org.json.JSONObject
 
 

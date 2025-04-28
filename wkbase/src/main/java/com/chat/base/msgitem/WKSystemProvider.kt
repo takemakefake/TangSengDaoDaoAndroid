@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import com.chad.library.adapter.base.viewholder.BaseViewHolder
-import com.chat.base.R
+import com.chat.app.R
 import com.chat.base.msg.ChatAdapter
 import com.chat.base.ui.components.SystemMsgBackgroundColorSpan
 import com.chat.base.utils.AndroidUtilities

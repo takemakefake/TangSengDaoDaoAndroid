@@ -35,7 +35,7 @@ import androidx.core.util.Consumer;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.msgitem.ReactionSticker;
 import com.chat.base.utils.AndroidUtilities;

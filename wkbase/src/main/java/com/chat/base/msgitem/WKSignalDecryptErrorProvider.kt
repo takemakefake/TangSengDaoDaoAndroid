@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.core.content.ContextCompat
-import com.chat.base.R
+import com.chat.app.R
 import com.chat.base.views.BubbleLayout
 
 class WKSignalDecryptErrorProvider : WKChatBaseProvider() {

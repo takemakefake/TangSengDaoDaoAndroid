@@ -10,10 +10,10 @@ import android.widget.FrameLayout;
 
 import androidx.core.content.res.ResourcesCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.utils.AndroidUtilities;
-import com.xinbida.wukongim.WKIM;
+import com.chat.im.WKIM;
 
 public class SecretDeleteTimer extends FrameLayout {
 

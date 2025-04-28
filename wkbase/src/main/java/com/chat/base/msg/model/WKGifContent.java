@@ -4,10 +4,10 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
-import com.xinbida.wukongim.message.type.WKMsgContentType;
-import com.xinbida.wukongim.msgmodel.WKMediaMessageContent;
-import com.xinbida.wukongim.msgmodel.WKMessageContent;
+import com.chat.app.R;
+import com.chat.im.message.type.WKMsgContentType;
+import com.chat.im.msgmodel.WKMediaMessageContent;
+import com.chat.im.msgmodel.WKMessageContent;
 
 import org.json.JSONException;
 import org.json.JSONObject;

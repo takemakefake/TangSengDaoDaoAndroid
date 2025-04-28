@@ -1,6 +1,6 @@
 package com.chat.base.entity
 
-import com.xinbida.wukongim.entity.WKChannelType
+import com.chat.im.entity.WKChannelType
 
 class GlobalChannel {
     var channel_id: String = ""

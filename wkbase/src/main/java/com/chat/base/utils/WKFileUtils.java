@@ -25,7 +25,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.config.WKConstants;
 
 import java.io.BufferedOutputStream;

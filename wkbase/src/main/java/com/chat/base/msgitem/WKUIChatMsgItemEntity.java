@@ -21,7 +21,7 @@ import android.view.View;
 
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.act.WKWebViewActivity;
 import com.chat.base.emoji.EmojiManager;
 import com.chat.base.emoji.MoonUtil;
@@ -36,12 +36,12 @@ import com.chat.base.utils.StringUtils;
 import com.chat.base.utils.WKDialogUtils;
 import com.chat.base.utils.WKReader;
 import com.chat.base.utils.WKToastUtils;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKChannelMember;
-import com.xinbida.wukongim.entity.WKChannelType;
-import com.xinbida.wukongim.entity.WKMsg;
-import com.xinbida.wukongim.msgmodel.WKMsgEntity;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKChannelMember;
+import com.chat.im.entity.WKChannelType;
+import com.chat.im.entity.WKMsg;
+import com.chat.im.msgmodel.WKMsgEntity;
 
 import java.util.ArrayList;
 import java.util.List;

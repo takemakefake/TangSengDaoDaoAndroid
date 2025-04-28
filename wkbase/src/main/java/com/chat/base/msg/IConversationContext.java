@@ -4,9 +4,9 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKMsg;
-import com.xinbida.wukongim.msgmodel.WKMessageContent;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKMsg;
+import com.chat.im.msgmodel.WKMessageContent;
 
 /**
  * 2020-08-13 14:22

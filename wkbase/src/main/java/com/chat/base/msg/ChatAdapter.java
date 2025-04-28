@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.chad.library.adapter.base.BaseProviderMultiAdapter;
 import com.chad.library.adapter.base.provider.BaseItemProvider;
 import com.chad.library.adapter.base.viewholder.BaseViewHolder;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.endpoint.entity.ShowMsgReactionMenu;
 import com.chat.base.msgitem.WKChatBaseProvider;
@@ -25,9 +25,9 @@ import com.chat.base.ui.components.SecretDeleteTimer;
 import com.chat.base.utils.WKReader;
 import com.chat.base.views.ChatItemView;
 import com.chat.base.views.pinnedsectionitemdecoration.utils.FullSpanUtil;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKMsg;
-import com.xinbida.wukongim.entity.WKMsgReaction;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKMsg;
+import com.chat.im.entity.WKMsgReaction;
 
 import org.jetbrains.annotations.NotNull;
 

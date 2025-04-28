@@ -21,7 +21,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 import com.chat.base.config.WKConfig;
 

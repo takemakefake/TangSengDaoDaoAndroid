@@ -6,7 +6,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.shuyu.gsyvideoplayer.video.StandardGSYVideoPlayer;
 
 /**

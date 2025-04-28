@@ -20,7 +20,7 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 import androidx.core.content.res.ResourcesCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.ui.Theme;
 import com.chat.base.ui.components.AnimatedFloat;

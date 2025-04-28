@@ -22,7 +22,7 @@ import android.view.View;
 import androidx.annotation.Keep;
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.utils.AndroidUtilities;
 
 public class CheckBoxSquare extends View {

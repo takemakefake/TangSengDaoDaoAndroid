@@ -9,7 +9,6 @@ dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
-        jcenter()
         mavenCentral()
         maven { url "https://jitpack.io" }
         maven {url 'https://developer.huawei.com/repo/'}
@@ -18,13 +17,14 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "TsddClient"
+rootProject.name = "ImClient"
 include ':MyLibs:rlottie'
 include ':MyLibs:oppopush'
 include ':MyLibs:vivopush'
 include ':app'
 include ':wkbase'
-include ':wkuikit'
-include ':wkscan'
-include ':wklogin'
-include ':wkpush'
+//include ':wkim'
+//include ':wkuikit'
+//include ':wkscan'
+//include ':wklogin'
+//include ':wkpush'

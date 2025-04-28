@@ -13,6 +13,7 @@ import androidx.core.util.Pair;
 import com.alibaba.fastjson.JSON;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.model.GlideUrl;
+import com.chat.app.R;
 import com.chat.base.act.PlayVideoActivity;
 import com.chat.base.config.WKConfig;
 import com.chat.base.config.WKConstants;

@@ -15,7 +15,7 @@ import android.widget.FrameLayout;
 
 import androidx.core.view.ViewCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 
 import java.util.ArrayList;
 import java.util.List;

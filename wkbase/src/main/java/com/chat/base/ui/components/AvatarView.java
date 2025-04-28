@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.config.WKApiConfig;
 import com.chat.base.config.WKConstants;
 import com.chat.base.glide.GlideUtils;
@@ -21,8 +21,8 @@ import com.chat.base.utils.LayoutHelper;
 import com.chat.base.utils.WKTimeUtils;
 import com.google.android.material.imageview.ShapeableImageView;
 import com.google.android.material.shape.CornerFamily;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
 
 import java.io.File;
 

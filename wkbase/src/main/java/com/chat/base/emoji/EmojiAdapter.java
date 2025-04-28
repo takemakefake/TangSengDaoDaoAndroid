@@ -7,7 +7,7 @@ import androidx.annotation.Nullable;
 
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.viewholder.BaseViewHolder;
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.ui.components.FilterImageView;
 import com.chat.base.utils.AndroidUtilities;
 

@@ -44,7 +44,7 @@ import android.util.Log;
 
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.WKBaseApplication;
 
 import org.telegram.ui.Components.RLottieImageView;

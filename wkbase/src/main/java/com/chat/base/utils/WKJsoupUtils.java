@@ -3,8 +3,8 @@ package com.chat.base.utils;
 import android.text.TextUtils;
 
 import com.chat.base.config.WKSharedPreferencesUtil;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKMsg;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKMsg;
 
 import org.json.JSONException;
 import org.json.JSONObject;

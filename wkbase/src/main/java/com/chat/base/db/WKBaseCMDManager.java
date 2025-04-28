@@ -9,11 +9,11 @@ import com.chat.base.WKBaseApplication;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.utils.WKLogUtils;
 import com.chat.base.utils.WKReader;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKCMD;
-import com.xinbida.wukongim.entity.WKCMDKeys;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKChannelExtras;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKCMD;
+import com.chat.im.entity.WKCMDKeys;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKChannelExtras;
 
 import org.json.JSONException;
 import org.json.JSONObject;

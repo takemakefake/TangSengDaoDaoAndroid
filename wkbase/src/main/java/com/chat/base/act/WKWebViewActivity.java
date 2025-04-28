@@ -23,13 +23,13 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import com.chat.base.R;
+import com.chat.app.R;
 import com.chat.base.app.WKAppModel;
 import com.chat.base.base.WKBaseActivity;
 import com.chat.base.config.WKApiConfig;
 import com.chat.base.config.WKBinder;
 import com.chat.base.config.WKConfig;
-import com.chat.base.databinding.ActWebvieiwLayoutBinding;
+import com.chat.app.databinding.ActWebvieiwLayoutBinding;
 import com.chat.base.endpoint.EndpointManager;
 import com.chat.base.endpoint.EndpointSID;
 import com.chat.base.endpoint.entity.ChatChooseContacts;
@@ -48,11 +48,11 @@ import com.chat.base.utils.WKDialogUtils;
 import com.chat.base.utils.WKLogUtils;
 import com.chat.base.utils.WKToastUtils;
 import com.google.gson.JsonObject;
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKChannelType;
-import com.xinbida.wukongim.entity.WKSendOptions;
-import com.xinbida.wukongim.msgmodel.WKTextContent;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKChannelType;
+import com.chat.im.entity.WKSendOptions;
+import com.chat.im.msgmodel.WKTextContent;
 
 import org.json.JSONException;
 import org.json.JSONObject;

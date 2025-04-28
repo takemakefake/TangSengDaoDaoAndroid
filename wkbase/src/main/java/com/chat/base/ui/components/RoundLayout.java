@@ -8,7 +8,7 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.chat.base.R;
+import com.chat.app.R;
 
 public class RoundLayout extends FrameLayout {
 

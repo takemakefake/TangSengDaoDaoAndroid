@@ -1,6 +1,6 @@
 package com.chat.base.entity
 
-import com.xinbida.wukongim.entity.WKChannelExtras
+import com.chat.im.entity.WKChannelExtras
 
 class WKChannelCustomerExtras : WKChannelExtras() {
     companion object {

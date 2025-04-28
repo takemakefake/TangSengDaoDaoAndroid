@@ -8,7 +8,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.chat.base.WKBaseApplication;
-import com.chat.base.R;
+import com.chat.app.R;
 
 
 /**

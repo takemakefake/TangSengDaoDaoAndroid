@@ -1,7 +1,7 @@
 package com.chat.base.msgitem;
 
 
-import com.xinbida.wukongim.message.type.WKMsgContentType;
+import com.chat.im.message.type.WKMsgContentType;
 
 /**
  * 2019-11-15 17:01

@@ -3,7 +3,7 @@ package com.chat.base.endpoint.entity
 import android.widget.FrameLayout
 import com.chat.base.msg.ChatAdapter
 import com.chat.base.msgitem.WKChatIteMsgFromType
-import com.xinbida.wukongim.entity.WKMsgReaction
+import com.chat.im.entity.WKMsgReaction
 
 class ShowMsgReactionMenu(
     val parentView: FrameLayout,

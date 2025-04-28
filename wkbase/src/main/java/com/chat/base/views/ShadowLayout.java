@@ -14,7 +14,7 @@ import android.widget.FrameLayout;
 
 import androidx.core.content.ContextCompat;
 
-import com.chat.base.R;
+import com.chat.app.R;
 
 
 /**

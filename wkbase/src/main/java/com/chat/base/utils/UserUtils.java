@@ -1,10 +1,10 @@
 package com.chat.base.utils;
 
-import com.xinbida.wukongim.WKIM;
-import com.xinbida.wukongim.entity.WKChannel;
-import com.xinbida.wukongim.entity.WKChannelExtras;
-import com.xinbida.wukongim.entity.WKChannelMember;
-import com.xinbida.wukongim.entity.WKChannelType;
+import com.chat.im.WKIM;
+import com.chat.im.entity.WKChannel;
+import com.chat.im.entity.WKChannelExtras;
+import com.chat.im.entity.WKChannelMember;
+import com.chat.im.entity.WKChannelType;
 
 /**
  * description: 基类用户关系判断
